@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aj7Jtiy7BIiXw3Z5uuN3a6KqO4F7UFIEy9B0aMZECo3Q60IGrkX8oiOkKulp1bzjGl3SJl6h7SJHSgikD0pwcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Labbmasinen\\Documents\\test\\HiQTest\\HiQTest\\HiQTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Labbmasinen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Labbmasinen\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Labbmasinen\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Labbmasinen\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

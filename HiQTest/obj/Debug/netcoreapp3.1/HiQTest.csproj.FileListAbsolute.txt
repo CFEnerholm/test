@@ -1,0 +1,15 @@
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\bin\Debug\netcoreapp3.1\HiQTest.exe
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\bin\Debug\netcoreapp3.1\HiQTest.deps.json
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\bin\Debug\netcoreapp3.1\HiQTest.runtimeconfig.json
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\bin\Debug\netcoreapp3.1\HiQTest.runtimeconfig.dev.json
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\bin\Debug\netcoreapp3.1\HiQTest.dll
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\bin\Debug\netcoreapp3.1\HiQTest.pdb
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.csprojAssemblyReference.cache
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.csproj.GenerateResource.cache
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.AssemblyInfoInputs.cache
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.AssemblyInfo.cs
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.csproj.CoreCompileInputs.cache
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.dll
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.pdb
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.genruntimeconfig.cache
+C:\Users\Labbmasinen\Documents\test\HiQTest\HiQTest\obj\Debug\netcoreapp3.1\HiQTest.form.resources
